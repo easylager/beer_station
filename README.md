@@ -1,5 +1,5 @@
-Hi this is my blog about craft brewing that I created with the help of the Django framework
-in the project I used the MVC model of separation. I implemented simple and convenient KRUD functionality using OOP principles.
+Hi, this is my blog about craft brewing that I created with the help of the Django framework
+I used the MVC model of separation in the project. I implemented simple and convenient KRUD functionality using OOP principles.
 
 I created mixins in a file for conveniently creating handlers for each of the CRUD functions. Handlers classes inherit from mixins.
 Model methods that pass the absolute url to the instance of the model class have been created for convenient communication of handler functions and templates.
